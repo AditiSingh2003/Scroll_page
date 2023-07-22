@@ -37,9 +37,9 @@ class _ProgramsState extends State<Programs> {
               Text(
                 'Programs For You',
                 style: TextStyle(
-                  fontSize: 24,
+                  fontSize: 20,
                   fontFamily: 'Lora',
-                  fontWeight: FontWeight.w500,
+                  fontWeight: FontWeight.w700,
                 ),
               ),
               Row(

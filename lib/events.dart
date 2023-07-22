@@ -37,9 +37,9 @@ class _ProgramsState extends State<Events> {
               Text(
                 'Events and experiences',
                 style: TextStyle(
-                  fontSize: 24,
+                  fontSize: 20,
                   fontFamily: 'Lora',
-                  fontWeight: FontWeight.w500,
+                  fontWeight: FontWeight.w700,
                 ),
               ),
               Row(
@@ -48,7 +48,7 @@ class _ProgramsState extends State<Events> {
                     'View all',
                     style: TextStyle(
                       fontFamily: 'Inter',
-                      fontSize: 16,
+                      fontSize: 20,
                       color: Colors.grey.shade500,
                     ),
                   ),
